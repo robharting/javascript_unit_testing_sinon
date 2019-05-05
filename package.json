@@ -1,0 +1,25 @@
+{
+  "name": "javascript_unit_testing_sinon",
+  "version": "1.0.0",
+  "description": "sinon stub unit testing stubing ajax request",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robharting/javascript_unit_testing_sinon.git"
+  },
+  "author": "Rob Harting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robharting/javascript_unit_testing_sinon/issues"
+  },
+  "homepage": "https://github.com/robharting/javascript_unit_testing_sinon#readme",
+  "devDependencies": {
+    "chai": "~4.2.0",
+    "mocha": "^5.2.0",
+    "request": "^2.88.0",
+    "sinon": "^7.1.1"
+  }
+}
